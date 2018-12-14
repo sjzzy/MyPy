@@ -3,4 +3,4 @@
 sum = 0
 for m in range(5):
     sum = sum + m
-print(sum)
+print(sum, m)
